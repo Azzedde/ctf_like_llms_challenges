@@ -26,6 +26,7 @@ Welcome to the **CTF-Like LLM Challenges** repository! Here, you'll find a colle
 - **Summary**: Use natural queries to find a hidden password within a fine-tuned LLM.
 - **Goal**: Interact with the LLM creatively to make it reveal the password.
 - **Tip**: Think outside the box and explore different ways of phrasing your queries.
+- **Link**: [here](https://colab.research.google.com/drive/1I6iLgqiN5FBZdwfM8p16fF3MieQC7WFG?usp=sharing)
 
 ---
 
@@ -33,12 +34,11 @@ Welcome to the **CTF-Like LLM Challenges** repository! Here, you'll find a colle
 - **Summary**: Use natural queries to manipulate predefined functions.
 - **Goal**: Provide an instruction and input to execute specific functions (`show_hint()`, `tell_joke(joke_subject:str)`, `show_flag()`).
 - **Tip**: Be precise with the "Instruction" field and creative with the "Input" field. Only predefined instructions work reliably!
+- **Link**: [here](https://colab.research.google.com/drive/1Sjq2yYgzBvmd6_1HfRWV-RY_C1wF7V8U?usp=sharing)
 
 ---
 
-### **Challenge 3: Pattern Unveiling** *(Coming Soon!)*
-- **Summary**: Discover the underlying pattern hidden in the LLM’s fine-tuned responses.
-- **Goal**: Decode the pattern and use it to uncover the challenge solution.
+### **Challenge 3:*(Coming Soon!)*
 
 ---
 
