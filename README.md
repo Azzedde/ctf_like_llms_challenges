@@ -38,7 +38,11 @@ Welcome to the **CTF-Like LLM Challenges** repository! Here, you'll find a colle
 
 ---
 
-### **Challenge 3:*(Coming Soon!)*
+### **Challenge 3: Try to Hack me**
+- **Summary**: Post a comment on my Linkedin post and I will execute your prompt in a system.
+- **Goal**: Try to get the flag ;)
+- **Tip**: Get inspired by other comments, and see what everyone did wrong.
+- **Link**: [here](https://www.linkedin.com/posts/azzedine-idir-aitsaid-7bab84229_ctf-llms-genai-activity-7284294661429444609-ZEbu?utm_source=share&utm_medium=member_desktop)
 
 ---
 
